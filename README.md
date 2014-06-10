@@ -1,1 +1,3 @@
-Hello 2014年4月22日9:43:39！
+Hello gitHub.
+I come from Beijing.
+				-2014年6月10日17:46:24
