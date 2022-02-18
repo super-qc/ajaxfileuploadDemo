@@ -1,5 +1,3 @@
-﻿Hello everybody! 
-I come from Beijing.
- 
-<br/>
-facebook:https://www.facebook.com/profile.php?id=100005131147163
+本项目为文件上传demo。
+前端使用ajaxfileupload.js
+后端使用servlet进行文件接收
